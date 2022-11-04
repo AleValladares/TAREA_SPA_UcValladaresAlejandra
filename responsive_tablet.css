@@ -1,0 +1,58 @@
+@media screen and (max-width: 768px) {
+  .ancho {
+    max-width: 668px;
+  }
+
+  .logo {
+    width: 450px;
+  }
+
+  .seccion1 {
+    height: 400px;
+  }
+
+  .seccion1 a {
+    background-color: #ff3281;
+  }
+
+  .seccion2 {
+    flex-direction: column-reverse;
+  }
+
+  .productos {
+    width: 650px;
+  }
+
+  .productos h2 {
+    margin-top: 50px;
+    text-align: center;
+  }
+
+  .puestos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .texto2 {
+    max-width: 700px;
+    margin-top: 40px;
+  }
+
+  .articulo {
+    width: 700px;
+  }
+
+  .seccion4 {
+    flex-direction: column-reverse;
+  }
+
+  .cuatro {
+    width: 100%;
+  }
+
+  .solo {
+    width: 100%;
+  }
+}
